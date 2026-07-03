@@ -68,21 +68,8 @@ From-Numbers-to-Neurons/
 │
 ├── models/
 │   └── neural_network.pkl
-│
-├── src/
-│   ├── preprocessing.py
-│   ├── neural_network.py
-│   ├── train.py
-│   ├── predict.py
-│   ├── utils.py
-│   └── metrics.py
-│
-├── notebooks/
-│   └── training.ipynb
-│
-├── requirements.txt
-├── README.md
-└── LICENSE
+├── assignments/
+└── README.md
 ```
 
 ---
