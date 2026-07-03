@@ -63,12 +63,12 @@ Target Classes:
 ```
 From-Numbers-to-Neurons/
 │
-├── dataset/
+├── Dataset/
 │   └── iris.csv
 │
-├── models/
-│   └── neural_network.pkl
-├── assignments/
+├── Model/
+│   └── Iris_Neural_Network_From_Scratch.ipynb
+├── Assignments/
 └── README.md
 ```
 
