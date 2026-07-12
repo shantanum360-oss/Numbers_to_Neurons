@@ -66,7 +66,7 @@ From-Numbers-to-Neurons/
 ├── Dataset/
 │   └── iris.csv
 │
-├── Model/
+├── Models/
 │   └── Iris_Neural_Network_From_Scratch.ipynb
 ├── Assignments/
 └── README.md
